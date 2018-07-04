@@ -27,10 +27,10 @@ The code below imports the data:
 
 ```R
 setwd("/Users/eagronin/Documents/Data Science/Association Analysis")
-rm(list=ls())
+rm(list = ls())
 
 # read retail data item by item and create additional features
-items = read.csv("Online Retail.csv", header=TRUE, sep = ",")
+items = read.csv("Online Retail.csv", header = TRUE, sep = ",")
 ```
 
 Next step: [Data Preparation](https://eagronin.github.io/market-basket-prepare/)
