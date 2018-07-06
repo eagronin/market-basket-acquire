@@ -1,7 +1,7 @@
 # Data Acquisition
 
 ## Overview
-This section describes the data from a UK-based online retailer which are used in the subsequent sections to discover co-occurrence relationships among customers’ purchase activities. This analysis is called market basket analysis or association analysis.  It is commonly used in marketing to increase the chance of cross-selling, provide recommendations to customers based, for example, on their browsing history and deliver targeted marketing (e.g., offer coupons to customers for products that are frequently purchased together with items that the customers recently bought).
+This section describes the data from a UK-based online retailer which are used in the subsequent sections to discover co-occurrence relationships among customers’ purchase activities, such as the likelihood to purchase a candle holder if the customer already has candles and matches in their shopping cart. This analysis is called market basket analysis or association analysis.  It is commonly used in marketing to increase the chance of cross-selling, provide recommendations to customers based, for example, on their browsing history and deliver targeted marketing (e.g., offer coupons to customers for products that are frequently purchased together with items that the customers recently bought).
 
 Data exploration and cleaning are discussed in the [next section](https://eagronin.github.io/market-basket-prepare/).
 
