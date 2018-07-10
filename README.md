@@ -8,7 +8,7 @@ Data exploration and cleaning are discussed in the [next section](https://eagron
 The analysis for this project was performed in R.
 
 ## Description of the Online Retail Dataset
-The dataset was downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail).  It is a transactional data set that contains 541,909 purchases representing all the transactions that occured between December 1, 2010 and December 9, 2011 for a UK-based online retailer.  Many customers of this online retailer are wholesalers.  The retailer mainly sells unique all-occasion gifts.
+The dataset was downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail).  It is a transactional data set that contains 541,909 purchases representing all the transactions that occurred between December 1, 2010 and December 9, 2011 for a UK-based online retailer.  Many customers of this online retailer are wholesalers.  The retailer mainly sells unique all-occasion gifts.
 
 As reported on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail) website, the attributes information is as follows:
 
